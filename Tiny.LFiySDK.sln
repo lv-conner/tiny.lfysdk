@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AFC4FA9B-3DC6-4240-AE05-93CA09D71ED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{83121FD5-7BA3-4B8F-8E3D-FC9F5200F1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSdkApp", "TestSdkApp\TestSdkApp.csproj", "{E41987A0-072B-47D0-8D11-6FEECEECB8F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41987A0-072B-47D0-8D11-6FEECEECB8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41987A0-072B-47D0-8D11-6FEECEECB8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41987A0-072B-47D0-8D11-6FEECEECB8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41987A0-072B-47D0-8D11-6FEECEECB8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E41987A0-072B-47D0-8D11-6FEECEECB8F8} = {83121FD5-7BA3-4B8F-8E3D-FC9F5200F1EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A9982B-649E-41EF-80AF-3C553652DC39}
+	EndGlobalSection
+EndGlobal

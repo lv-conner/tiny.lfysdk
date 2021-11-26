@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6a/YZ8/cCEflyXQ4ozgJGZr+S63m746HE1gGxpzzVSfB02GXZ8ogJzOcD+tle3BTZwWMcTS0r0bXZgck3yFzng==",
+  "success": true,
+  "projectFilePath": "E:\\Vs2022Project\\Tiny.LFiySDK\\TestSdkApp\\TestSdkApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lv\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

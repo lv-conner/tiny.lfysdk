@@ -1,0 +1,17 @@
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.csproj.AssemblyReference.cache
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.AssemblyInfoInputs.cache
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.AssemblyInfo.cs
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.csproj.CoreCompileInputs.cache
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\TestSdkApp.exe
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\TestSdkApp.deps.json
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\TestSdkApp.runtimeconfig.json
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\TestSdkApp.dll
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\ref\TestSdkApp.dll
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\TestSdkApp.pdb
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.dll
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\ref\TestSdkApp.dll
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.pdb
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.genruntimeconfig.cache
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Vs2022Project\Tiny.LFiySDK\TestSdkApp\obj\Debug\net6.0\TestSdkApp.csproj.CopyComplete
