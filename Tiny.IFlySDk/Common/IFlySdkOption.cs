@@ -1,11 +1,11 @@
-﻿namespace TestSdkApp // Note: actual namespace depends on the project name.
+﻿namespace Tiny.IFlySDk.Common 
 {
     public class IFlySdkOption
     {
         /// <summary>
         /// AppID
         /// </summary>
-        public string AppID { get; set; }
+        public string AppId { get; set; }
 
         /// <summary>
         /// ApiSecret
@@ -20,12 +20,12 @@
         /// <summary>
         /// ASR接口地址
         /// </summary>
-        public string ASRUrl { get; set; } = "wss://iat-api.xfyun.cn/v2/iat";
+        public Uri ASRUrl { get; set; } = new Uri("wss://iat-api.xfyun.cn/v2/iat");
 
         /// <summary>
         /// TTS接口地址
         /// </summary>
-        public string TTSUrl { get; set; } = "wss://tts-api.xfyun.cn/v2/tts";
+        public Uri TTSUrl { get; set; } = new Uri("wss://tts-api.xfyun.cn/v2/tts");
 
         public ApiType ApiType { get; set; }
     }
